@@ -107,6 +107,9 @@ git push
 
 • You now have more than 10 public commits visible on your profile ( Before 10 July ) — ready to use for Zama Developer Program.
 
+---
+---
+
 ## 📍 Join our Telegram Community  
 - For live help, updates, & early alpha drops  
 👉 [https://t.me/EarningNetwork](https://t.me/EarningNetworkFree)
